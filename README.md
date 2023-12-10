@@ -39,30 +39,6 @@ A straightforward and feature-rich note-taking application built with React and 
 
   ## Demo and Preview
 
-- **Demo Link:** [DEMO](https://demo-notes-app.netlify.app/)
-- **Preview Link:** 
   <img src="./src/images/preview.png" alt="Preview Image">
 
-## Getting Started
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/note-taking-app.git
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    cd note-taking-app
-    npm install
-    ```
-
-3. Run the app locally:
-
-    ```bash
-    npm run dev
-    ```
-
-    Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+- **Demo Link:** [DEMO](https://demo-notes-app.netlify.app/)
