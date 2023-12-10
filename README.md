@@ -39,8 +39,9 @@ A straightforward and feature-rich note-taking application built with React and 
 
   ## Demo and Preview
 
-- **Demo Link:** [https://demo-notes-app.netlify.app/](#)
-- **Preview Link:** [./src/images/preview.png](#)
+- **Demo Link:** [DEMO](https://demo-notes-app.netlify.app/)
+- **Preview Link:** 
+  <img src="./src/images/preview.png" alt="Preview Image">
 
 ## Getting Started
 
